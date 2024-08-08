@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-05T00:44:15 IST" name="Default suite" finished-at="2024-08-05T00:45:27 IST" duration-ms="71329">
+    <groups>
+    </groups>
+    <test started-at="2024-08-05T00:44:15 IST" name="Default test" finished-at="2024-08-05T00:45:27 IST" duration-ms="71329">
+      <class name="medimention.com.testcases.TC_REG_Test_001">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:medimention.com.testcases.TC_REG_Test_001@77fbd92c]" started-at="2024-08-05T00:44:15 IST" name="SetUp" finished-at="2024-08-05T00:44:42 IST" duration-ms="26162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="RegisterPageTest()[pri:0, instance:medimention.com.testcases.TC_REG_Test_001@77fbd92c]" started-at="2024-08-05T00:44:42 IST" name="RegisterPageTest" finished-at="2024-08-05T00:45:27 IST" duration-ms="44989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterPageTest -->
+      </class> <!-- medimention.com.testcases.TC_REG_Test_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
